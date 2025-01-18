@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-const SecureWarehousing = () => {
+const SecureWareHousing = () => {
   return (
     <motion.div
       initial={{ opacity: 0, y: 50 }}
@@ -15,4 +15,4 @@ const SecureWarehousing = () => {
   );
 };
 
-export default SecureWarehousing;
+export default SecureWareHousing;
